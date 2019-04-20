@@ -4,5 +4,5 @@ add all
 add modified  
 `git add -u`
 
-add untracked
+add untracked  
 `echo -e "a\n*\nq\n"|git add -i`
