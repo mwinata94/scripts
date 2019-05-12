@@ -7,8 +7,8 @@ add modified
 add untracked  
 `echo -e "a\n*\nq\n"|git add -i`
 
-undo local by one
-`git reset --soft HEAD~1`
+undo local by one  
+`git reset --soft HEAD~1`  
 
-create a branch while keeping changes
-`git checkout -b newBranch`
+create a branch while keeping changes  
+`git checkout -b newBranch`  
